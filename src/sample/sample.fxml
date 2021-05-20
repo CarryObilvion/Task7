@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <AnchorPane layoutX="-1.0" prefHeight="400.0" prefWidth="304.0" style="-fx-background-color: #6495ED; -fx-background-radius: 1em;">
+         <children>
+            <Button layoutX="253.0" layoutY="14.0" mnemonicParsing="false" onAction="#Cl" prefHeight="25.0" prefWidth="28.0" style="-fx-background-color: #4169E1;" />
+            <Canvas fx:id="can" height="324.0" layoutX="-1.0" layoutY="57.0" width="304.0" />
+         </children></AnchorPane>
+      <AnchorPane fx:id="ap2" layoutX="311.0" prefHeight="186.0" prefWidth="278.0" style="-fx-background-color: #4169E1; -fx-background-radius: 1em;" visible="false">
+         <children>
+            <Pane prefHeight="126.0" prefWidth="278.0" style="-fx-background-color: #6495ED; -fx-background-radius: 1em;">
+               <children>
+                  <Label layoutX="14.0" layoutY="14.0" text="Timer">
+                     <font>
+                        <Font name="Josefin Sans" size="18.0" />
+                     </font>
+                  </Label>
+                  <Button layoutX="218.0" layoutY="87.0" mnemonicParsing="false" onAction="#clean" text="Clean" />
+                  <Button layoutX="171.0" layoutY="87.0" mnemonicParsing="false" onAction="#stop" text="Stop" />
+                  <Button layoutX="120.0" layoutY="87.0" mnemonicParsing="false" onAction="#start" prefHeight="25.0" prefWidth="42.0" text="Play" />
+                  <TextField fx:id="timer" layoutX="14.0" layoutY="51.0" prefHeight="25.0" prefWidth="116.0" />
+                  <TextField fx:id="repeat" layoutX="141.0" layoutY="51.0" prefHeight="25.0" prefWidth="116.0" />
+                  <Label layoutX="141.0" layoutY="17.0" text="Repeat">
+                     <font>
+                        <Font name="Josefin Sans" size="18.0" />
+                     </font>
+                  </Label>
+               </children></Pane>
+            <Label layoutX="14.0" layoutY="136.0" text="Count" textFill="WHITE">
+               <font>
+                  <Font name="Josefin Sans" size="20.0" />
+               </font>
+            </Label>
+            <TextField fx:id="dindon" layoutX="115.0" layoutY="136.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
