@@ -32,12 +32,14 @@
 
 Скриншот рабочего окна приложения:
 Начало отсчёта
-![7 1](https://user-images.githubusercontent.com/80450495/119039047-8158c200-b9bc-11eb-88b8-15ab418a2580.jpg)
+![7 1](https://user-images.githubusercontent.com/80450495/119039324-cd0b6b80-b9bc-11eb-8c8b-e881efae881a.jpg)
 
 
 Включение музыкального клипа
-![7 2](https://user-images.githubusercontent.com/80450495/119039056-8453b280-b9bc-11eb-8910-2b4d13c0ec8b.jpg)
+![7 2](https://user-images.githubusercontent.com/80450495/119039337-d09ef280-b9bc-11eb-9875-7037d3a15905.jpg)
+
 
 Показ изображения
-![7 3](https://user-images.githubusercontent.com/80450495/119039065-86b60c80-b9bc-11eb-87c4-681a0b3cc570.jpg)
+![7 3](https://user-images.githubusercontent.com/80450495/119039342-d268b600-b9bc-11eb-814e-a807691db0d4.jpg)
+
 
