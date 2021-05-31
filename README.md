@@ -28,18 +28,17 @@
 
 Проект построен согласно диаграмме классов.
 
-![Task7](https://user-images.githubusercontent.com/80450495/114278316-ea512f80-9a37-11eb-84a2-738be050fac8.png)
+![image](https://user-images.githubusercontent.com/80450495/120175200-9e885e80-c20e-11eb-8b12-e052e1463d75.png)
+
 
 Скриншот рабочего окна приложения:
 Начало отсчёта
-![7 1](https://user-images.githubusercontent.com/80450495/119039324-cd0b6b80-b9bc-11eb-8c8b-e881efae881a.jpg)
+![image](https://user-images.githubusercontent.com/80450495/120175413-e0b1a000-c20e-11eb-98a1-414f8848aba6.png)
 
+Демонстрация изображения
+![image](https://user-images.githubusercontent.com/80450495/120175921-5e75ab80-c20f-11eb-8cd0-eed0ec5c9a9b.png)
 
-Включение музыкального клипа
-![7 2](https://user-images.githubusercontent.com/80450495/119039337-d09ef280-b9bc-11eb-9875-7037d3a15905.jpg)
-
-
-Показ изображения
-![7 3](https://user-images.githubusercontent.com/80450495/119039342-d268b600-b9bc-11eb-814e-a807691db0d4.jpg)
+Начало музыки (на фоне код класса для старта музыки)
+![image](https://user-images.githubusercontent.com/80450495/120175970-6cc3c780-c20f-11eb-859a-bb0985858187.png)
 
 
