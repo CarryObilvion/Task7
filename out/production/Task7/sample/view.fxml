@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<?import javafx.scene.image.ImageView?>
+<AnchorPane
+        prefHeight="400.0"
+        prefWidth="600.0"
+        xmlns="http://javafx.com/javafx/10.0.2-internal"
+        xmlns:fx="http://javafx.com/fxml/1"
+        fx:controller="sample.Controller">
+    <VBox>
+        <HBox
+                spacing="10">
+            <Label
+                    text="До закрытия:">
+                <font>
+                    <Font
+                            size="20"/>
+                </font>
+            </Label>
+            <Label
+                    fx:id="closeTimer">
+                <font>
+                    <Font
+                            size="20"/>
+                </font>
+            </Label>
+        </HBox>
+
+        <HBox
+                spacing="10">
+            <Label
+                    text="До проигрывания звука:">
+                <font>
+                    <Font
+                            size="20"/>
+                </font>
+            </Label>
+            <Label
+                    fx:id="soundTimer">
+                <font>
+                    <Font
+                            size="20"/>
+                </font>
+            </Label>
+        </HBox>
+
+        <HBox
+                spacing="10">
+            <Label
+                    text="До показа изображения:">
+                <font>
+                    <Font
+                            size="20"/>
+                </font>
+            </Label>
+            <Label
+                    fx:id="imageTimer">
+                <font>
+                    <Font
+                            size="20"/>
+                </font>
+            </Label>
+        </HBox>
+
+        <Pane
+                fx:id="imagePane"/>
+    </VBox>
+</AnchorPane>
